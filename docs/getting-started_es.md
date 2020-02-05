@@ -115,7 +115,7 @@ export class HomeComponent implements OnInit {
 }
 ```
 
-y luego ciclamos dentro de `home.component.html`
+y luego un bucle dentro de `home.component.html`
 
 ```html
 <p>home works!</p>
